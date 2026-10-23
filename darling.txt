@@ -1,5 +1,5 @@
 this line added nishar
 If you click into a folder like time pass, that path will change
-  to ... / just-for-practice-repo / time pass. Anything you add or upload while inside that folder
+  today is praboss birthday 
   will be saved directly inside it rather than the main root directory.
 hey hello 
